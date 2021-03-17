@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/johnsvanda/johnsvanda/static/css/main.579d89e7.chunk.css",
+    "main.js": "/johnsvanda/johnsvanda/static/js/main.21c32b36.chunk.js",
+    "main.js.map": "/johnsvanda/johnsvanda/static/js/main.21c32b36.chunk.js.map",
+    "runtime-main.js": "/johnsvanda/johnsvanda/static/js/runtime-main.283d115f.js",
+    "runtime-main.js.map": "/johnsvanda/johnsvanda/static/js/runtime-main.283d115f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/johnsvanda/johnsvanda/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.72461cbb.chunk.js": "/johnsvanda/johnsvanda/static/js/2.72461cbb.chunk.js",
+    "static/js/2.72461cbb.chunk.js.map": "/johnsvanda/johnsvanda/static/js/2.72461cbb.chunk.js.map",
+    "index.html": "/johnsvanda/johnsvanda/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/johnsvanda/johnsvanda/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.579d89e7.chunk.css.map": "/johnsvanda/johnsvanda/static/css/main.579d89e7.chunk.css.map",
+    "static/js/2.72461cbb.chunk.js.LICENSE.txt": "/johnsvanda/johnsvanda/static/js/2.72461cbb.chunk.js.LICENSE.txt",
+    "static/media/css.f7333ca5.png": "/johnsvanda/johnsvanda/static/media/css.f7333ca5.png",
+    "static/media/html.f483bd2d.png": "/johnsvanda/johnsvanda/static/media/html.f483bd2d.png",
+    "static/media/node.e4f5817c.png": "/johnsvanda/johnsvanda/static/media/node.e4f5817c.png",
+    "static/media/profile.0f1dc73f.svg": "/johnsvanda/johnsvanda/static/media/profile.0f1dc73f.svg",
+    "static/media/react.0500504a.png": "/johnsvanda/johnsvanda/static/media/react.0500504a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.283d115f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.72461cbb.chunk.js",
+    "static/css/main.579d89e7.chunk.css",
+    "static/js/main.21c32b36.chunk.js"
+  ]
+}
